@@ -9,7 +9,10 @@ const Footer = () => {
         <div className="footer-content-left">
           <img src={assets.logo} alt="" />
           <p>
-            Bringing restaurants to your home
+            Your go-to food delivery app
+Order online • Pay securely • Track in real-time
+Fresh food from local restaurants, fast! 🍕
+Bringing restaurants to your home
 Fresh meals • Smart cart • Easy checkout • Live tracking
 Serving happiness, one delivery at a time
           </p>

@@ -9,6 +9,7 @@ import Footer from "./components/Footer/Footer";
 import LoginPopup from "./components/LoginPopup/LoginPopup";
 import Verify from "./pages/Verify/Verify";
 import MyOrders from "./pages/MyOrders/MyOrders";
+// This is the main component of the application. It contains the routes for all the pages and also the navbar and footer. It also has a state to show the login popup when the user clicks on the login button in the navbar.
 
 const App = () => {
   const [showLogin, setShowLogin] = useState(false);
